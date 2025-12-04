@@ -1,5 +1,4 @@
 # Alura-plus
-# Nome do Projeto
 
 Projeto de HTML e CSS com layout do curso Alura.
 
@@ -22,12 +21,13 @@ Basta abrir o arquivo `index.html` no navegador.
 
 ## Como foi feito
  Meu projeto foi realizado com bases no ensinamento do curso de HTML e CSS da Alura, contém todos os fundamentos ensinados na pratica como:
- -Layout responsivo
- -uso de Flexbox/Grid
- -componentes reutilizaveis
- -fundamentos do Root
- -utilização de listas  
+ -Layout responsivo <br>
+ -uso de Flexbox/Grid <br>
+ -componentes reutilizaveis <br>
+ -fundamentos do Root <br>
+ -utilização de listas <br>
 
 ## Contato
 Felipe Cassiano Dresch De Lacerda
-- GitHub: [text](https://github.com/Felipedresch456)
+- GitHub: [Felipe Dresch](https://github.com/Felipedresch456)
+
