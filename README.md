@@ -21,13 +21,14 @@ Basta abrir o arquivo `index.html` no navegador.
 
 ## Como foi feito
  Meu projeto foi realizado com bases no ensinamento do curso de HTML e CSS da Alura, contém todos os fundamentos ensinados na pratica como:
- -Layout responsivo <br>
- -uso de Flexbox/Grid <br>
- -componentes reutilizaveis <br>
- -fundamentos do Root <br>
- -utilização de listas <br>
+ -LPayout responsivo <br>
+ -Uso de Flexbox/Grid <br>
+ -Componentes reutilizaveis <br>
+ -Fundamentos do Root <br>
+ -Utilização de listas <br>
 
 ## Contato
 Felipe Cassiano Dresch De Lacerda
 - GitHub: [Felipe Dresch](https://github.com/Felipedresch456)
+
 
